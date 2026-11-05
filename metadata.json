@@ -1,0 +1,6 @@
+{
+  "name": "Smart Recipe",
+  "description": "A modern Flutter-inspired recipe application featuring recipe discovery, category filtering, step-by-step cooking mode, servings scaling, and recipe creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
