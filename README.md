@@ -54,7 +54,7 @@ npm run dev
 
 Visit:
 
-http://localhost:3000
+[http://localhost:3000](https://recipe-application-o8pn01bh5-recipe-application.vercel.app/)
 
 ## 📁 Project Structure
 
